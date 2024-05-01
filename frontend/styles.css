@@ -1,0 +1,41 @@
+header {
+    padding: 25px;
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    padding-right: 15px ;
+}
+header h1{
+    font-weight: bold;
+    color: #3858ff;
+}
+
+.content {
+    display: flex;
+}
+
+.content .sidebar {
+    padding: 30px 70px;
+    max-width: 500px;
+}
+
+.content .sidebar {
+    max-width: 500px;
+    padding: 30px 70px;
+    background-color: #fdd7dc;
+}
+
+.content .displayedPage {
+    width: 65%;
+    padding: 30px;
+}
+
+footer {
+    text-align: center;
+}
+
+footer a {
+    margin: 20px;
+}
